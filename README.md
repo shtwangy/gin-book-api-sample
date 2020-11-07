@@ -1,9 +1,9 @@
-# go mod init
+# Initialization of go mod
 ```
 $ go mod init {project name}
 ```
 
-# install gin package
+# install gin packages
 ```
 go get github.com/gin-gonic/gin
 go get github.com/go-sql-driver/mysql
